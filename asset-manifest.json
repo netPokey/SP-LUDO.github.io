@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d89d5f5.css",
+    "main.css": "/static/css/main.06237f42.css",
     "main.js": "/static/js/main.e4dc3626.js",
     "static/media/PunishmentHall.JPG": "/static/media/PunishmentHall.3d6f76bf97056c8d166c.JPG",
     "static/media/peach.gif": "/static/media/peach.692293f16bd79077e252.gif",
@@ -8,11 +8,11 @@
     "static/media/group.jpeg": "/static/media/group.aebeaa7126f8070eee9a.jpeg",
     "static/media/horizental.gif": "/static/media/horizental.f456c15490e1ef0ea887.gif",
     "index.html": "/index.html",
-    "main.1d89d5f5.css.map": "/static/css/main.1d89d5f5.css.map",
+    "main.06237f42.css.map": "/static/css/main.06237f42.css.map",
     "main.e4dc3626.js.map": "/static/js/main.e4dc3626.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d89d5f5.css",
+    "static/css/main.06237f42.css",
     "static/js/main.e4dc3626.js"
   ]
 }
