@@ -1,18 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.06237f42.css",
-    "main.js": "/static/js/main.e4dc3626.js",
+    "main.css": "/static/css/main.1317e2c0.css",
+    "main.js": "/static/js/main.6f1ea59d.js",
     "static/media/PunishmentHall.JPG": "/static/media/PunishmentHall.3d6f76bf97056c8d166c.JPG",
     "static/media/peach.gif": "/static/media/peach.692293f16bd79077e252.gif",
     "static/media/Ludo.jpg": "/static/media/Ludo.89031e83fb09402b0188.jpg",
-    "static/media/group.jpeg": "/static/media/group.aebeaa7126f8070eee9a.jpeg",
-    "static/media/horizental.gif": "/static/media/horizental.f456c15490e1ef0ea887.gif",
+    "static/media/vertical.gif": "/static/media/vertical.9218700840307a9cd18c.gif",
+    "static/media/horizental.gif": "/static/media/horizental.c062ebdf816b22381d00.gif",
+    "static/media/g5.png": "/static/media/g5.7537107c0773f23aa183.png",
+    "static/media/g1.png": "/static/media/g1.1030755ff0196451cbd7.png",
+    "static/media/vbar.png": "/static/media/vbar.4ec60cef03ce1837f219.png",
+    "static/media/g7.png": "/static/media/g7.28fe85ba1d6f60c2236e.png",
+    "static/media/g4.png": "/static/media/g4.0e3e68e1ce1a110e39b1.png",
+    "static/media/hbar.png": "/static/media/hbar.7288b3f2ff47dd099fd5.png",
+    "static/media/g6.png": "/static/media/g6.f6631e5b6577c4607aa4.png",
+    "static/media/g8.png": "/static/media/g8.1ac86be9b902ea7ce564.png",
+    "static/media/g2.png": "/static/media/g2.7f63faa750dc86e651c1.png",
+    "static/media/g3.png": "/static/media/g3.520b1f869c2a997561c4.png",
     "index.html": "/index.html",
-    "main.06237f42.css.map": "/static/css/main.06237f42.css.map",
-    "main.e4dc3626.js.map": "/static/js/main.e4dc3626.js.map"
+    "main.1317e2c0.css.map": "/static/css/main.1317e2c0.css.map",
+    "main.6f1ea59d.js.map": "/static/js/main.6f1ea59d.js.map"
   },
   "entrypoints": [
-    "static/css/main.06237f42.css",
-    "static/js/main.e4dc3626.js"
+    "static/css/main.1317e2c0.css",
+    "static/js/main.6f1ea59d.js"
   ]
 }
