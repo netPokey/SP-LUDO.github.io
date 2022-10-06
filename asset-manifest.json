@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.81169ddf.css",
-    "main.js": "/static/js/main.05413b1d.js",
+    "main.css": "/static/css/main.34faf8f5.css",
+    "main.js": "/static/js/main.4f69f1bb.js",
     "static/media/PunishmentHall.JPG": "/static/media/PunishmentHall.3d6f76bf97056c8d166c.JPG",
     "static/media/peach.gif": "/static/media/peach.692293f16bd79077e252.gif",
     "static/media/Ludo.jpg": "/static/media/Ludo.89031e83fb09402b0188.jpg",
+    "static/media/die_hover.png": "/static/media/die_hover.1465494889c8d4acb886.png",
+    "static/media/die.png": "/static/media/die.dd834ed03186e191bc14.png",
+    "static/media/arrow.png": "/static/media/arrow.f4c5867b632ae002513f.png",
     "static/media/vertical.gif": "/static/media/vertical.9218700840307a9cd18c.gif",
     "static/media/g5.png": "/static/media/g5.7537107c0773f23aa183.png",
     "static/media/g1.png": "/static/media/g1.1030755ff0196451cbd7.png",
@@ -17,11 +20,11 @@
     "static/media/g2.png": "/static/media/g2.7f63faa750dc86e651c1.png",
     "static/media/g3.png": "/static/media/g3.520b1f869c2a997561c4.png",
     "index.html": "/index.html",
-    "main.81169ddf.css.map": "/static/css/main.81169ddf.css.map",
-    "main.05413b1d.js.map": "/static/js/main.05413b1d.js.map"
+    "main.34faf8f5.css.map": "/static/css/main.34faf8f5.css.map",
+    "main.4f69f1bb.js.map": "/static/js/main.4f69f1bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.81169ddf.css",
-    "static/js/main.05413b1d.js"
+    "static/css/main.34faf8f5.css",
+    "static/js/main.4f69f1bb.js"
   ]
 }
