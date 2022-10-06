@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34faf8f5.css",
-    "main.js": "/static/js/main.11648a13.js",
+    "main.js": "/static/js/main.09c6f2a5.js",
     "static/media/PunishmentHall.JPG": "/static/media/PunishmentHall.3d6f76bf97056c8d166c.JPG",
     "static/media/peach.gif": "/static/media/peach.692293f16bd79077e252.gif",
     "static/media/Ludo.jpg": "/static/media/Ludo.89031e83fb09402b0188.jpg",
@@ -21,10 +21,10 @@
     "static/media/g3.png": "/static/media/g3.520b1f869c2a997561c4.png",
     "index.html": "/index.html",
     "main.34faf8f5.css.map": "/static/css/main.34faf8f5.css.map",
-    "main.11648a13.js.map": "/static/js/main.11648a13.js.map"
+    "main.09c6f2a5.js.map": "/static/js/main.09c6f2a5.js.map"
   },
   "entrypoints": [
     "static/css/main.34faf8f5.css",
-    "static/js/main.11648a13.js"
+    "static/js/main.09c6f2a5.js"
   ]
 }
