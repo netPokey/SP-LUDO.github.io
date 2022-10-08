@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9544c22.css",
-    "main.js": "/static/js/main.2c6132de.js",
+    "main.css": "/static/css/main.12635c58.css",
+    "main.js": "/static/js/main.df41e41a.js",
     "static/media/PunishmentHall.JPG": "/static/media/PunishmentHall.3d6f76bf97056c8d166c.JPG",
     "static/media/peach.gif": "/static/media/peach.692293f16bd79077e252.gif",
     "static/media/Ludo.jpg": "/static/media/Ludo.89031e83fb09402b0188.jpg",
+    "static/media/Tipping.png": "/static/media/Tipping.34f502c9b2736dd56780.png",
     "static/media/die_hover.png": "/static/media/die_hover.1465494889c8d4acb886.png",
     "static/media/die.png": "/static/media/die.dd834ed03186e191bc14.png",
     "static/media/arrow.png": "/static/media/arrow.f4c5867b632ae002513f.png",
@@ -20,11 +21,11 @@
     "static/media/g2.png": "/static/media/g2.7f63faa750dc86e651c1.png",
     "static/media/g3.png": "/static/media/g3.520b1f869c2a997561c4.png",
     "index.html": "/index.html",
-    "main.b9544c22.css.map": "/static/css/main.b9544c22.css.map",
-    "main.2c6132de.js.map": "/static/js/main.2c6132de.js.map"
+    "main.12635c58.css.map": "/static/css/main.12635c58.css.map",
+    "main.df41e41a.js.map": "/static/js/main.df41e41a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9544c22.css",
-    "static/js/main.2c6132de.js"
+    "static/css/main.12635c58.css",
+    "static/js/main.df41e41a.js"
   ]
 }
